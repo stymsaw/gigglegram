@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "45797759684",
+    "project_id": "giggle-gram",
+    "storage_bucket": "giggle-gram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45797759684:android:04bc365bafbddc8048c791",
+        "android_client_info": {
+          "package_name": "com.example.gigglegram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuIAav57bfZcN1RdRgHlUKEg-lLl-IXtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
